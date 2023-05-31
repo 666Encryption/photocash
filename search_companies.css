@@ -1,0 +1,175 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image:  url(http://www.bitinfo.info/img/header4.png);
+    background-repeat: repeat-x;
+	font-Family: Arial, Helvetica, sans-serif;
+	background-color:#F5F5F5;
+	font-size: 12px;
+}
+
+#wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 0;
+	height: auto;
+
+}#header {
+	float: left;
+	height: 55px;
+	width: 1000px;
+}
+#menubox {
+	float: left;
+	height: 75px;
+	width: 900px;
+	margin-top: 40px;
+	margin-left: 50px;
+	color: #00F;
+}
+#companyinfod {
+	float: left;
+	height: auto;
+	width: 1000px;
+	margin-top: 0px;
+}
+#jjj {
+	float: left;
+	height: 30px;
+	width: 875px;
+	margin-left: 50px;
+	font-size: 24px;
+	font-weight: bolder;
+	text-align: center;
+}
+#pricestock {
+	float: left;
+	height: 27px;
+	width: 190px;
+	color: #FFF;
+	font-weight: bolder;
+	font-size: 16px;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+#rightmenur {
+	float: right;
+	height: 26px;
+	width: 300px;
+	margin-top: 17px;
+	color: #FFF;
+	font-weight: bolder;
+}
+
+
+
+#but1 {
+	float: left;
+	height: 65px;
+	width: 340px;
+	margin-left: 340px;
+}
+#o {
+	float: left;
+	height: 30px;
+	width: 1000px;
+	margin-top: 130px;
+}
+
+#but2 {
+	float: left;
+	height: 65px;
+	width: 300px;
+	margin-left: 175px;
+}
+
+
+#buttonsclickon {
+	float: left;
+
+
+	height: 75
+\;
+	width: 1000px;
+	margin-top: 40px;
+	width: 1000px;
+}
+#bitcompanyvideo {
+	float: left;
+	height: 300px;
+	width: 1000px;
+}
+#logobot {
+	float: left;
+	height: 50px;
+	width: 50px;
+}
+#logowordsbox {
+	float: left;
+	height: 45px;
+	width: 300px;
+	font-size: 36px;
+	margin-left: 17px;
+	margin-top: 6px;
+}
+#rightmenu {
+	float: left;
+	height: 70px;
+	width: 380px;
+	font-size: 24px;
+	font-weight: bolder;
+	margin-top: 5px;
+	margin-left: 140px;
+}
+#downloadbitcompcore {
+	float: left;
+	height: 250px;
+	width: 560px;
+	margin-left: 200px;
+	margin-top: 130px;
+}
+#footer {
+	float: left;
+	height: 30px;
+	width: 1000px;
+	margin-top: 50px;
+	text-align: center;
+	color: #00F;
+	font-weight: bolder;
+	font-size: 18px;
+}
+
+
+input[type='text'][name='search']{
+	height: 60px;
+	width: 875px;
+	font-size: 20px;
+	outline: none;
+}
+
+
+
+a.blue:link { color:blue; text-decoration:none; }
+a.blue:visited { color:blue; text-decoration:none; }
+a.blue:hover { color:blue; text-decoration:underline; }
+a.blue:active { color:blue; text-decoration:none; }
+
+
+
+a.white:link { color:white; text-decoration:none; }
+a.white:visited { color:white; text-decoration:none; }
+a.white:hover { color:white; text-decoration:underline; }
+a.white:active { color:white; text-decoration:none; }
+
+
+
+#descriptionv {
+	float: left;
+	height: auto;
+	width: 900px;
+	font-weight: bolder;
+	font-size: 24px;
+	margin-left: 50px;
+	color: #00F;
+	border: 1px solid #DCDCDC;
+}

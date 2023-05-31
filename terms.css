@@ -1,0 +1,384 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image:  url(http://www.bitinfo.info/img/index_header.png);
+    background-repeat: repeat-x;
+	font-Family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	
+	
+}
+
+
+
+
+#wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 0;
+	height: auto;
+
+}
+
+#header {
+	float: left;
+	height: 130px;
+	width: 1000px;
+}
+#cube {
+	float: left;
+	height: 500px;
+	width: 1000px;
+}
+#rect_box {
+	float: left;
+	height: 650px;
+	width: 1000px;
+	background-color: #2DC0FF;
+	margin-top: 1px;
+}
+#email_title {
+	float: left;
+	height: 20px;
+	width: 200px;
+	color: #FFF;
+}
+#password_title {
+	float: left;
+	height: 20px;
+	width: 200px;
+	color: #FFF;
+}
+
+#rightbox {
+	float: right;
+	height: 40px;
+	width: 200px;
+	font-size: 36px;
+	color: #FFF;
+	margin-right: 80px;
+	margin-top: 5px;
+	text-align: center;
+}
+
+#center_box {
+	float: left;
+	height: 50px;
+	width: 300px;
+	margin-left: 380px;
+	margin-top: 34px;
+}
+#center_txt {
+	float: left;
+	height: 500px;
+	width: 950px;
+	margin-left: 25px;
+	margin-top: 40px;
+	color: #FFF;
+}
+#subjectbx {
+	float: left;
+	height: 40px;
+	width: 300px;
+	margin-left: 345px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 24px;
+	color: #FFF;
+}
+
+
+#rightmenubox {
+	float: right;
+	height: 120px;
+	width: 500px;
+	margin-top: 10px;
+}
+#menur {
+	float: left;
+	height: 30px;
+	width: 500px;
+	margin-top: 10px;
+}
+#rightpassword {
+	float: right;
+	height: 30px;
+	width: 200px;
+	margin-right: 100px;
+	color: #FFF;
+}
+#leftcol {
+	float: left;
+	height: 600px;
+	width: 500px;
+}
+#rightcol {
+	float: right;
+	height: 600px;
+	width: 500px;
+}
+#rightvbar {
+	float: right;
+	height: 500px;
+	width: 2px;
+	border-right: 1px solid #7F7F7F;
+	margin-top: 40px;
+}
+#lcolbox {
+	float: left;
+	height: 600px;
+	width: 485px;
+	margin-left: 7px;
+}
+
+#xbox {
+	float: left;
+	height: 100px;
+	width: 480px;
+}
+#details_box {
+	float: left;
+	height: 175px;
+	width: 480px;
+}
+#site_description {
+	float: left;
+	height: 100px;
+	width: 480px;
+}
+
+
+
+
+
+
+#email_box {
+	float: left;
+	height: 30px;
+	width: 200px;
+}
+#password_box {
+	float: left;
+	height: 30px;
+	width: 200px;
+}
+#button_box {
+	float: left;
+	height: 30px;
+	width: 100px;
+}
+
+#menu2 {
+	float: left;
+	height: 40px;
+	width: 500px;
+}
+#ebox {
+	float: left;
+	height: 35px;
+	width: 500px;
+}
+
+#txtbxbutton {
+	float: left;
+	height: 40px;
+	width: 610px;
+	margin-left: 90px;
+	color: #FFF;
+}
+#rbuttonr {
+	float: right;
+	height: 35px;
+	width: 10px;
+	margin-right: 90px;
+}
+
+#titlebox {
+	float: left;
+	height: 30px;
+	width: 600px;
+	margin-left: 90px;
+	margin-top: 150px;
+	color: #FFF;
+	font-size: 18px;
+}
+#footer {
+	float: left;
+	height: 70px;
+	width: 1000px;
+	margin-top: 40px;
+	text-align: center;
+	color: #FFF;
+}
+#bx1 {
+	float: left;
+	height: 30px;
+	width: 1000px;
+	border-bottom: 1px solid #7F7F7F;
+	color: #999;
+}
+#bx2 {
+	float: left;
+	height: 30px;
+	width: 1000px;
+	margin-top: 6px;
+}
+#rightcube {
+	float: left;
+	height: 600px;
+	width: 480px;
+	margin-left: 9px;
+}
+#button_agreements {
+	float: left;
+	height: 40px;
+	width: 480px;
+	margin-top: 50px;
+}
+#sex_box {
+	float: left;
+	height: 35px;
+	width: 480px;
+}
+#sex_title {
+	float: left;
+	height: 30px;
+	width: 480px;
+	color: #999;
+	font-size: 18px;
+}
+#join_agreements {
+	float: left;
+	height: 15px;
+	width: 320px;
+	color: #999;
+	font-size: 10px;
+	margin-top: 10px;
+}
+#rightbuttonjoin {
+	float: right;
+	height: 40px;
+	width: 95px;
+	margin-right: 10px;
+}
+
+
+#birthdaybox {
+	float: left;
+	height: 35px;
+	width: 480px;
+}
+#birthday_title {
+	float: left;
+	height: 30px;
+	width: 480px;
+	font-size: 18px;
+	color: #999;
+}
+
+
+
+
+
+
+
+#logoboxl {
+	float: left;
+	height: 50px;
+	width: 50px;
+}
+#passbox {
+	float: left;
+	height: 35px;
+	width: 480px;
+}
+#passtitle {
+	float: left;
+	height: 30px;
+	width: 480px;
+	color: #999;
+	font-size: 18px;
+}
+#emails_box {
+	float: left;
+	height: 35px;
+	width: 480px;
+}
+
+
+
+#site_desc {
+	float: left;
+	height: 50px;
+	width: 800px;
+	margin-left: 100px;
+	margin-top: 50px;
+	font-size: 33px;
+	color: #FFF;
+	text-align: center;
+}
+#emails_title {
+	float: left;
+	height: 30px;
+	width: 480px;
+	font-size: 18px;
+	color: #999;
+}
+#firstnamelastnamebox {
+	float: left;
+	height: 35px;
+	width: 480px;
+}
+#firstnamelastnametitle {
+	float: left;
+	height: 30px;
+	width: 480px;
+	margin-top: 25px;
+}
+#signupbox {
+	float: left;
+	height: 35px;
+	width: 480px;
+	margin-top: 60px;
+	font-size: 18px;
+	color: #999;
+}
+#firstbox {
+	float: left;
+	height: 30px;
+	width: 235px;
+	color: #999;
+	font-size: 18px;
+}
+#lastbox {
+	float: right;
+	height: 30px;
+	width: 235px;
+	color: #999;
+	font-size: 18px;
+}
+#lcfirstnamebox {
+	float: left;
+	height: 35px;
+	width: 235px;
+}
+#fclastnamebox {
+	float: right;
+	height: 35px;
+	width: 235px;
+}
+
+
+
+
+
+a.gray:link { color:#999; text-decoration:none; }
+a.gray:visited { color: #999; text-decoration:none; }
+a.gray:hover { color: #999; text-decoration:underline; }
+a.gray:active { color: #999; text-decoration:none; }
+
+
+a.white:link { color:#FFF; text-decoration:none; }
+a.white:visited { color: #FFF; text-decoration:none; }
+a.white:hover { color: #FFF; text-decoration:underline; }
+a.white:active { color: #FFF; text-decoration:none; }

@@ -1,0 +1,145 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image:  url(http://www.yourobot.io/img/header.png);
+    background-repeat: repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 0;
+	height: auto;
+
+}
+#header {
+	float: left;
+	height: 60px;
+	width: 1000px;
+}
+#cube {
+	float: left;
+	height: 875px;
+	width: 1000px;
+	background-color: #FFF;
+	margin-top: 3px;
+}
+#facebot {
+	float: left;
+	height: 45px;
+	width: 45px;
+	margin-left: 20px;
+	margin-top: 7px;
+}
+#logo_name {
+	float: left;
+	height: 30px;
+	width: 130px;
+	margin-left: 20px;
+	margin-top: 15px;
+	color: #FFF;
+	font-size: 24px;
+}
+#right_menu {
+	float: right;
+	height: 25px;
+	width: 150px;
+	margin-top: 25px;
+	color: #FFF;
+}
+#results_box {
+	float: left;
+	height: 100px;
+	width: 1000px;
+}
+#button_box {
+	float: left;
+	height: 35px;
+	width: 1000px;
+	text-align: center;
+	margin-top: 15px;
+}
+#data_box {
+	float: left;
+	height: 35px;
+	width: 1000px;
+	text-align: center;
+	margin-top: 15px;
+	color: #00F;
+}
+
+
+
+
+#numbers_box {
+	float: left;
+	height: 30px;
+	width: 1000px;
+}
+#input_box {
+	float: left;
+	height: 35px;
+	width: 1000px;
+	text-align: center;
+	margin-top: 8px;
+}
+#name_box {
+	float: left;
+	height: 30px;
+	width: 1000px;
+	color: #00F;
+	text-align: center;
+	margin-top: 15px;
+	font-size: 20px;
+}
+#image_box {
+	float: left;
+	height: auto;
+	width: 1000px;
+	margin-top: 50px;
+	text-align: center;
+}
+#bodyc {
+	float: left;
+	height: auto;
+	width: 700px;
+	margin-left: 120px;
+}
+
+
+
+a.gray:link { color:#999; text-decoration:none; }
+a.gray:visited { color: #999; text-decoration:none; }
+a.gray:hover { color: #999; text-decoration:underline; }
+a.gray:active { color: #999; text-decoration:none; }
+
+
+a.white:link { color:#FFF; text-decoration:none; }
+a.white:visited { color: #FFF; text-decoration:none; }
+a.white:hover { color: #FFF; text-decoration:underline; }
+a.white:active { color: #FFF; text-decoration:none; }
+
+
+
+
+a.blue:link { color: blue; text-decoration:none; }
+a.blue:visited { color: blue; text-decoration:none; }
+a.blue:hover { color: blue; text-decoration:underline; }
+a.blue:active { color: blue; text-decoration:none; }
+
+
+
+input[type='text'][name='search_data']{
+	height: 29px;
+	width: 500px;
+	font-size: 12px;
+	outline: none;
+}
+#titlebox {
+	float: left;
+	height: 35px;
+	width: 200px;
+	margin-left: 350px;
+}
